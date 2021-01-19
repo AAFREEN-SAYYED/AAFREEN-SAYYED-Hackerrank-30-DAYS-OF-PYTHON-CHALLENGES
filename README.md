@@ -1,1 +1,3 @@
 # AAFREEN-SAYYED-Hackerrank-30-DAYS-OF-PYTHON-CHALLENGES
+
+This repository contains the solution to 30-Days-Code challenges from HackerRank using Python...
